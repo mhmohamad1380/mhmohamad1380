@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Uritect Project<br>🌱 I’m currently learning DevOps<br>💬 Ask me about Python, Django, Django Rest, Docker and  ...<br>⚡ Fun fact is that I work with my heart :) even with 6 bullets in my chest
+🔭 I’m currently working on Uritect Project<br>🌱 I’m currently learning GoLang<br>💬 Ask me about Python, Django, Django Rest, Docker and  ...<br>⚡ Fun fact is that I work with my heart :) even with 6 bullets in my chest
 
 
 ## 🌐 Socials:
