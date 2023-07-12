@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=DFA721&width=435&lines=Hey+buddy!;Buy+me+a+Coffee+and+make+me+Happy;in+Love+with+Python;but+GoLang+is+also+Good)](https://git.io/typing-svg)
+
 # 💫 About Me:
 🔭 I’m currently working on Uritect Project<br>🌱 I’m currently learning GoLang<br>💬 Ask me about Python, Django, Django Rest, Docker and  ...<br>⚡ Fun fact is that I work with my heart :) even with 6 bullets in my chest
 
